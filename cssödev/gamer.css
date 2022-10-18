@@ -1,0 +1,18 @@
+h1{
+    color:royalblue;
+    text-align: center;
+}
+li{
+    list-style-position: inside;
+}
+h2{
+    color:goldenrod
+}
+p{
+  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
