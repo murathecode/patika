@@ -1,0 +1,102 @@
+.googlepic {
+    text-align: center;
+}
+
+.search {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.input1 {
+    text-align: center;
+    width: 100%;
+}
+
+.button1 {
+    margin-left: -120px;
+    margin-top: 5px;
+    width: 0 auto;
+    text-align: center;
+}
+
+.button2 {
+    width: 100%;
+    margin-left: 53px;
+    text-align: center;
+    margin-top: -21px;
+}
+
+#blok1 {
+    background-color: aqua;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-right: 1000px;
+    padding-bottom: 30px;
+    padding-top: 20px; 
+}
+#blok2 {
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: -147px;
+    width: 300px;
+    height: 128px;
+   padding-left: 10px;
+    position: absolute;
+    right:695px;
+    padding-top: 20px;
+}
+#yazı-2{
+    text-align: center;
+    margin-top: -147px;
+    width: 300px;
+    height: 128px;
+   padding-left: 10px;
+    position: absolute;
+    right:695px;
+    padding-top: 40px;
+}
+#yazı-3{
+    text-align: center;
+    margin-top: -147px;
+    width: 300px;
+    height: 128px;
+   padding-left: 10px;
+    position: absolute;
+    right:695px;
+    padding-top: 60px;
+}
+
+#yazı-4{
+    text-align: center;
+    margin-top: -147px;
+    width: 300px;
+    height: 128px;
+   padding-left: 10px;
+    position: absolute;
+    right:695px;
+    padding-top: 80px;
+}
+
+#blok3{
+    text-align: center;
+    background: antiquewhite;
+    margin-top: -147px;
+    width: 600px;
+    height: 120px;
+   padding-left: 10px;
+    position: absolute;
+    right:100px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.input2{
+    text-align: center;
+    width: 100%;
+    margin-left: 550px;
+    margin-top: -10px;  
+}
+#footer-yazi{
+    text-align: center;
+}
